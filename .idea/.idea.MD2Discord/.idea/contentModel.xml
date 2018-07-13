@@ -4,6 +4,7 @@
     <e p="C:\Users\100745\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_MD2Discord.1594433548.00" t="ExcludeRecursive" />
     <e p="C:\Users\100745\RiderProjects\MD2Discord" t="IncludeFlat">
       <e p="MD2Discord" t="IncludeRecursive">
+        <e p="bandy.TTF" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Discord" t="Include">
           <e p="CodeBlockRenderer.cs" t="Include" />

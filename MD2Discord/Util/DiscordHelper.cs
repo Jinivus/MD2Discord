@@ -3,10 +3,12 @@ using System.Drawing;
 
 namespace MD2Discord.Util
 {
-    public class DiscordHelper
+    public static class DiscordHelper
     {
-        public static Image DrawText(string text, Font font, Color textColor, Color? backColor = null)
+        public static Image DrawText(string text, float fontSize, Color textColor, Color? backColor = null, FontFamily fontFamily=null)
         {
+            if (fontFamily == null) fontFamily = new FontFamily("bandy.ttf");
+            var font = fontFamily.GetFont(fontSize);
             Image img = new Bitmap(1,1);
             var drawing = Graphics.FromImage(img);
 
@@ -27,6 +29,11 @@ namespace MD2Discord.Util
             drawing.Save();
 
             return img;
+        }
+
+        private static Font GetFont(this FontFamily family, float size, FontStyle style=FontStyle.Regular)
+        {
+            return new Font(family, size, style);
         }
     }
 }
