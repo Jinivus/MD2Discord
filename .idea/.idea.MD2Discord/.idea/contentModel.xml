@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\100745\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_MD2Discord.1594433548.00" t="ExcludeRecursive" />
+    <e p="C:\Users\100745\RiderProjects\MD2Discord" t="IncludeFlat">
+      <e p="MD2Discord" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Discord" t="Include">
+          <e p="CodeBlockRenderer.cs" t="Include" />
+          <e p="DiscordObjectRenderer.cs" t="Include" />
+          <e p="HeadingRenderer.cs" t="Include" />
+          <e p="HtmlBlockRenderer.cs" t="Include" />
+          <e p="ListRenderer.cs" t="Include" />
+          <e p="ParagraphRenderer.cs" t="Include" />
+          <e p="QuoteBlockRenderer.cs" t="Include" />
+          <e p="ThematicBreakRenderer.cs" t="Include" />
+        </e>
+        <e p="DiscordRenderer.cs" t="Include" />
+        <e p="MarkdownExtension.cs" t="Include" />
+        <e p="MD2Discord.cs" t="Include" />
+        <e p="MD2Discord.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="MD2Discord.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Util" t="Include">
+          <e p="DiscordHelper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MD2Discord.sln" t="IncludeFlat" />
+      <e p="MD2DiscordTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MD2DiscordTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="MD2DiscordTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="test.md" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

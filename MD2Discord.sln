@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD2Discord", "MD2Discord\MD2Discord.csproj", "{A668653D-6C07-451A-BEDA-FCFA3621BB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD2DiscordTest", "MD2DiscordTest\MD2DiscordTest.csproj", "{BC6CC2AB-C789-4088-9877-38AA53AA99EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A668653D-6C07-451A-BEDA-FCFA3621BB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A668653D-6C07-451A-BEDA-FCFA3621BB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A668653D-6C07-451A-BEDA-FCFA3621BB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A668653D-6C07-451A-BEDA-FCFA3621BB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6CC2AB-C789-4088-9877-38AA53AA99EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6CC2AB-C789-4088-9877-38AA53AA99EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6CC2AB-C789-4088-9877-38AA53AA99EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6CC2AB-C789-4088-9877-38AA53AA99EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
